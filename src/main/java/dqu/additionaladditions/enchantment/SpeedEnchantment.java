@@ -10,7 +10,7 @@ import org.jetbrains.annotations.NotNull;
 
 public class SpeedEnchantment extends Enchantment {
     public SpeedEnchantment() {
-        super(Rarity.UNCOMMON, EnchantmentCategory.ARMOR_FEET, new EquipmentSlot[] {EquipmentSlot.FEET});
+        super(Rarity.UNCOMMON, EnchantmentCategory.ARMOR_LEGS, new EquipmentSlot[] {EquipmentSlot.LEGS});
     }
 
     @Override
